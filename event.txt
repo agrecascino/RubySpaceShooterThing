@@ -1,0 +1,1 @@
+EventStart:,x:60,y:-10,enemycreate:enemy.txt,milliseconds:2000,EventEnd:
